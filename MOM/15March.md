@@ -10,7 +10,7 @@
 - Who will do what before upcoming Project review.
 
 ## Decisions Taken
-- Following PERN Stack (PostgreSQL(Prisma ORM), Express.js, Node.js, React.js).
+- Following PERN Stack (PostgreSQL, Express.js, Node.js, React.js).
 - **Arindam Dwivedi** - Database Modelling and Schema Design.
 - **Atharv Tiwari** - Research about the problem and make a Case Study on it's solution.
 - **Yash Thorat** - Develop UI Design on Figma.
