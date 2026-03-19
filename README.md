@@ -46,4 +46,4 @@ All user interface designs, wireframes, and prototyping for Bake Hauss are maint
 * [🔗 View the Figma Design File Here](https://www.figma.com/make/V40KSdbdrs6jokY2OkuzgY/BAKEHAUSS-Homepage-Design?p=f&t=RPyaFMs9UBusKGTk-0&fullscreen=1) 
 *(Note for developers: Please reference Figma for all exact hex codes, typography, and spacing)*
 
----
+--- 
