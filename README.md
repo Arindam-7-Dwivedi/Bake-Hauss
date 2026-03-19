@@ -43,7 +43,7 @@ The application is divided into two primary experiences:
 ## 🎨 Design & UI Mockups
 All user interface designs, wireframes, and prototyping for Bake Hauss are maintained in Figma. 
 
-* [🔗 View the Figma Design File Here](https://meta-native-57424126.figma.site) 
+* [🔗 View the Figma Design File Here](https://www.figma.com/make/V40KSdbdrs6jokY2OkuzgY/BAKEHAUSS-Homepage-Design?p=f&t=RPyaFMs9UBusKGTk-0&fullscreen=1) 
 *(Note for developers: Please reference Figma for all exact hex codes, typography, and spacing)*
 
 ---
