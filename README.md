@@ -47,3 +47,9 @@ All user interface designs, wireframes, and prototyping for Bake Hauss are maint
 *(Note for developers: Please reference Figma for all exact hex codes, typography, and spacing)*
 
 --- 
+
+## PPT of Mid-Term Evaluation 
+
+* [🔗 View the Presentation Here](https://www.canva.com/design/DAHET7lmqBc/yfPtZRkIBwzw5qEG1iWCsQ/edit?utm_content=DAHET7lmqBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
+--- 
